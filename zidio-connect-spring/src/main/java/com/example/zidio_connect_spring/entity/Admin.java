@@ -1,4 +1,5 @@
 package com.example.zidio_connect_spring.entity;
+import com.example.zidio_connect_spring.Enum.AdminRole;
 import jakarta.persistence.*;
 import java.sql.Timestamp;
 import java.util.UUID;
