@@ -1,4 +1,5 @@
 package com.example.zidio_connect_spring.entity;
+import com.example.zidio_connect_spring.Enum.AccountStatus;
 import jakarta.persistence.*;
 import lombok.*;
 import java.util.UUID;
